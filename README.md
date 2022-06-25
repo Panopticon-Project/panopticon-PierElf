@@ -9,3 +9,5 @@ https://www.securityweek.com/new-black-basta-ransomware-possibly-linked-conti-gr
 https://www.trendmicro.com/en_us/research/22/e/examining-the-black-basta-ransomwares-infection-routine.html
 
 https://securityintelligence.com/posts/black-basta-ransomware-group-besting-network/
+
+https://research.nccgroup.com/2022/06/06/shining-the-light-on-black-basta/

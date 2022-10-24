@@ -21,3 +21,5 @@ https://www.cybereason.com/blog/cybereason-vs.-black-basta-ransomware
 https://riskybiznews.substack.com/p/risky-biz-news-musk-says-russia-has
 
 https://securelist.com/luna-black-basta-ransomware/106950/
+
+https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html

@@ -25,3 +25,5 @@ https://securelist.com/luna-black-basta-ransomware/106950/
 https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html
 
 https://research.checkpoint.com/2022/black-basta-and-the-unnoticed-delivery/
+
+https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/

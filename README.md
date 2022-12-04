@@ -29,3 +29,5 @@ https://research.checkpoint.com/2022/black-basta-and-the-unnoticed-delivery/
 https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 
 https://www.securityweek.com/canadian-supermarket-chain-sobeys-hit-ransomware-attack
+
+https://www.zscaler.com/blogs/security-research/back-black-basta

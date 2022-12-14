@@ -31,3 +31,5 @@ https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-ed
 https://www.securityweek.com/canadian-supermarket-chain-sobeys-hit-ransomware-attack
 
 https://www.zscaler.com/blogs/security-research/back-black-basta
+
+https://inquest.net/blog/2022/12/14/black-basta-riding-crimeware-sleigh

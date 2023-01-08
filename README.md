@@ -35,3 +35,5 @@ https://www.zscaler.com/blogs/security-research/back-black-basta
 https://inquest.net/blog/2022/12/14/black-basta-riding-crimeware-sleigh
 
 https://www.cybereason.com/blog/threat-alert-aggressive-qakbot-campaign-and-the-black-basta-ransomware-group-targeting-u.s.-companies
+
+https://blog.bushidotoken.net/2022/11/the-continuity-of-conti.html
